@@ -29,4 +29,11 @@
  
       mEmojiLayout.show() 显示
       mEmojiLayout.hide() 隐藏
+
+
+效果：
+
+
+
+	 ![image](https://github.com/chenjianhuiJohnny/Emoji/raw/master/screenshots/vim-screenshot.jpg)
   
