@@ -33,5 +33,5 @@
 
 效果：
 
-![image](raw/master/images-folder/index.jpg)
+![image](raw/master/images-folder/index.png)
   
