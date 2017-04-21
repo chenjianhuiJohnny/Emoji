@@ -35,5 +35,5 @@
 
 
 
-	 ![image](https://github.com/chenjianhuiJohnny/Emoji/raw/master/screenshots/vim-screenshot.jpg)
+![image](https://github.com/chenjianhuiJohnny/Emoji/raw/master/screenshots/vim-screenshot.jpg)
   
